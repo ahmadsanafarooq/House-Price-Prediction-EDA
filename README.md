@@ -38,3 +38,4 @@ Here’s a snapshot of visualizations created:
 **Heatmap of Correlations:** Identifies key relationships.  
 
 This project demonstrates the power of **data visualization and statistical methods** in extracting actionable insights from housing data.  
+**Dataset Link:** https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset
